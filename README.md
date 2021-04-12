@@ -1,5 +1,5 @@
 # nf-react
-Reusable React Component 
+A library of Reusable React Component 
 
 ## Install
 ```

@@ -1,5 +1,5 @@
 import React from 'react';
-import TextInputCSSModules from 'ps-react/TextInputCSSModules';
+import TextInputCSSModules from 'nf-react/TextInputCSSModules';
 
 /** Required TextBox with error */
 export default class ExampleError extends React.Component {
